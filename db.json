@@ -1,4 +1,11 @@
 {
-  "nama": "Husnil Kamil",
-  "nip": "198201182008121002"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
